@@ -93,7 +93,6 @@ Masters entry  →  Research institute internship  →  WHO / Global health cons
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofsof23&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ### ⬛ Contacts
