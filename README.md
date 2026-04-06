@@ -1,35 +1,33 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sofsof23/sofsof23/main/pfp.jpg" width="150" style="border-radius:50%" />
+# Hey, I'm Safiya 👋
 
-<h1>Hey, I'm Safiya 👋</h1>
+**Computing Student · AI Specialisation · Independent Researcher**
 
-<p>Computing Student (AI Specialisation) · Independent Researcher · Humanitarian Tech</p>
-
-<p><em>Building at the intersection of artificial intelligence, global health, and impact.</em></p>
+*Building at the intersection of artificial intelligence, global health, and impact.*
 
 </div>
 
 ---
 
-## 🟣 About me
+### ⬛ About me
 
 I am a **Computing student** specialising in **Artificial Intelligence**, passionate about turning research into systems that create measurable change for large populations.
 
-- ◆ &nbsp;I work across **research, code, and writing** — always prioritising rigour, clarity, and real-world relevance.
-- ◆ &nbsp;I am currently building a **patient monitoring dashboard** for hospital settings and an **AI-assisted project management tool** for NGO and public sector workflows.
-- ◆ &nbsp;**Beyond code:** I research, publish, and write on AI, global health informatics, and technology for humanitarian impact.
+- ◆ &nbsp;I work across **research, code, and writing** — always prioritising rigour, clarity, and real-world relevance
+- ◆ &nbsp;I am currently building a **patient monitoring dashboard** for hospital settings and an **AI-assisted project management tool** for NGO and public sector workflows
+- ◆ &nbsp;**Beyond code:** I research, publish, and write on AI, global health informatics, and technology for humanitarian impact
 
-&nbsp;&nbsp;&nbsp;&nbsp;◆ **Published paper:** *Blockchain for Secure Patient Health Records in Telemedicine* — Zenodo (2025)
-&nbsp;&nbsp;&nbsp;&nbsp;◆ **Research interests:** Health AI · Privacy-preserving systems · Low-resource settings · Programme management
-&nbsp;&nbsp;&nbsp;&nbsp;◆ **Writing:** 3 blog posts/month on AI, health informatics, and emerging tech
+&nbsp;&nbsp;&nbsp;&nbsp;◆ **Published:** *Blockchain for Secure Patient Health Records in Telemedicine* — Zenodo (2025)
+&nbsp;&nbsp;&nbsp;&nbsp;◆ **Research focus:** Health AI · Privacy-preserving systems · Low-resource settings · Programme management
+&nbsp;&nbsp;&nbsp;&nbsp;◆ **Writing:** 3 blog posts per month on AI, health informatics, and emerging tech
 &nbsp;&nbsp;&nbsp;&nbsp;◆ **Certifications:** 28 professional certifications across AI, data science, cybersecurity, and cloud
 
 ---
 
-## 🟣 Tech Stack
+### ⬛ Tech Stack
 
-**◆ Languages & Mobile**
+**◆ Languages**
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -55,28 +53,35 @@ I am a **Computing student** specialising in **Artificial Intelligence**, passio
 
 ---
 
-## 🟣 Research & Writing
+### ⬛ Research & Writing
 
-> **Khan, S.S.** (2025). *Blockchain for Secure Patient Health Records in Telemedicine: A Proposal for Privacy-Preserving Data Management.* Zenodo.
-> DOI: [10.5281/zenodo.19429612](https://zenodo.org/records/19429612) · ORCID: [0009-0008-9454-8400](https://orcid.org/0009-0008-9454-8400)
+> **Khan, S.S.** (2025). *Blockchain for Secure Patient Health Records in Telemedicine: A Proposal for Privacy-Preserving Data Management.*
+> Zenodo · [zenodo.org/records/19438102](https://zenodo.org/records/19438102) · ORCID: [0009-0008-9454-8400](https://orcid.org/0009-0008-9454-8400)
 
 **In progress**
 
 - ◆ &nbsp;Paper 2 — AI triage and decision support in humanitarian low-resource health settings
-- ◆ &nbsp;Monthly blog — AI, global health informatics and technology for impact &nbsp;·&nbsp; [your blog link]
+- ◆ &nbsp;Monthly blog — AI, global health informatics and technology for impact
 
 ---
 
-## 🟣 Goals
+### ⬛ Currently Building
+
+- ◆ &nbsp;**Patient Monitoring Dashboard** — Power BI-style visualisation tool for hospital patient data in low-resource settings, built on open WHO health data
+- ◆ &nbsp;**Project Management Tool** — AI-assisted programme management for NGO and public sector workflows
+
+---
+
+### ⬛ Goals
 
 ```
-Masters entry  →  Research institute internship (Aug 2025)  →  WHO / Global health consultancy
-              Financial freedom  +  meaningful impact at scale
+Masters entry  →  Research institute internship  →  WHO / Global health consultancy
+         Financial freedom  +  meaningful impact at scale
 ```
 
 ---
 
-## 🟣 GitHub Stats
+### ⬛ GitHub Stats
 
 <div align="center">
 
@@ -88,14 +93,14 @@ Masters entry  →  Research institute internship (Aug 2025)  →  WHO / Global 
 
 ---
 
-## 🟣 Contacts
+### ⬛ Contacts
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safiya-salman-khan-573153325/)
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9454-8400)
-[![Zenodo](https://img.shields.io/badge/Zenodo-%23024dad.svg?style=flat-square)](https://zenodo.org/records/19429612)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:sofia.khan4706@gmail.com)
+[![Zenodo](https://img.shields.io/badge/Published-Zenodo-%23024dad.svg?style=flat-square)](https://zenodo.org/records/19438102)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:safiya.salkhan@gmail.com)
 
 </div>
 
