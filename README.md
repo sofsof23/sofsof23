@@ -87,12 +87,10 @@ Masters entry  →  Research institute internship  →  WHO / Global health cons
 ### ⬛ GitHub Stats
 
 <div align="center">
-
-![Safiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofsof23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofsof23&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=sofsof23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofsof23&theme=tokyonight" alt="Profile Summary" />
 </div>
+
 ---
 
 ### ⬛ Contacts
