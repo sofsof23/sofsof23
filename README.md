@@ -6,6 +6,7 @@
 
 *Building at the intersection of artificial intelligence, global health, and impact.*
 
+
 </div>
 
 ---
@@ -17,6 +18,8 @@ I am a **Computing student** specialising in **Artificial Intelligence**, passio
 - ◆ &nbsp;I work across **research, code, and writing** — always prioritising rigour, clarity, and real-world relevance
 - ◆ &nbsp;I am currently building a **patient monitoring dashboard** for hospital settings and an **AI-assisted project management tool** for NGO and public sector workflows
 - ◆ &nbsp;**Beyond code:** I research, publish, and write on AI, global health informatics, and technology for humanitarian impact
+- My portfolio : https://safiyakhan.netlify.app/
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;◆ **Published:** *Blockchain for Secure Patient Health Records in Telemedicine* — Zenodo (2025)
 &nbsp;&nbsp;&nbsp;&nbsp;◆ **Research focus:** Health AI · Privacy-preserving systems · Low-resource settings · Programme management
