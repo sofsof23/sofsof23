@@ -13,7 +13,7 @@
 
 ### ⬛ About me
 
-I am a **Computing student** specialising in **Artificial Intelligence**, passionate about turning research into systems that create measurable change for large populations.
+I am a **second year comp sci student** specialising in **Artificial Intelligence**, passionate about turning research into systems that create measurable change for large populations.
 
 - ◆ &nbsp;I work across **research, code, and writing** — always prioritising rigour, clarity, and real-world relevance
 - ◆ &nbsp;I am currently building a **patient monitoring dashboard** for hospital settings and an **AI-assisted project management tool** for NGO and public sector workflows
